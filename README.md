@@ -7,6 +7,8 @@ I have analysed and develop a Dashboard with year over year sales trend analysis
 
 Report for profitability analysis on the product category and sub-category, for specific year.
 
-
+![alt text]( https://github.com/bmshahrier/sales-data-analysis/blob/master/images/ProfitabilityAnalysis.png "Profitability Analysis Report")
 
 Furthermore, sales difference (growth) report for Product Category and Sub Category between two years has been developed with the filtering options including Country, Customer Gender and Age Group.
+
+![alt text]( https://github.com/bmshahrier/sales-data-analysis/blob/master/images/Growth.png "Sales Growth Report")
